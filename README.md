@@ -6,7 +6,7 @@ I don't create the disign.
 
 I took completed by instructor files such as: index.html and style.css.
 
-My practise is in the sript.js file.
+My practise is in the script.js file.
 
 Here I learned and practiceed some JS topics:
 
