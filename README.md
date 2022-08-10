@@ -8,7 +8,7 @@ I took completed by instructor files such as: index.html and style.css.
 
 My practise is in the script.js file.
 
-Here I learned and practiceed some JS topics:
+Here I learned and practiced some JS topics:
 
 -Looping Arryays
 -Creating DOM Elements
